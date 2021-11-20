@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RK_Schagovitov_IU6-51B.iml" filepath="$PROJECT_DIR$/.idea/modules/RK_Schagovitov_IU6-51B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RK_Schagovitov_IU6-51B.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RK_Schagovitov_IU6-51B.app.iml" />
+    </modules>
+  </component>
+</project>
